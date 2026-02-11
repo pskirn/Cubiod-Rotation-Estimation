@@ -1,0 +1,16 @@
+# Compatible package versions for Ubuntu 22.04 Python 3.10
+# These versions work together without conflicts
+# Install with: pip3 install -r requirements_compatible.txt
+
+# Core packages with compatible versions
+numpy==1.24.3
+scipy==1.10.1
+scikit-learn==1.2.2
+opencv-python==4.8.1.78
+matplotlib==3.7.1
+
+# ROS2 packages (if available)
+# Note: Some may need apt installation instead
+# rclpy
+# rosbag2-py
+# rosidl-runtime-py

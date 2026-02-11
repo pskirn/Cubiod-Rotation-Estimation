@@ -1,0 +1,4 @@
+Axis_Component,Value
+x,-0.349641
+y,-0.164177
+z,0.922387
