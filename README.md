@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This project implements an algorithm to estimate the rotation of a 3D cuboid from depth sensor data, as requested for the 10xConstruction technical assessment.
+This project implements an algorithm to estimate the rotation of a 3D cuboid from depth sensor data.
 
 ## 🎯 Deliverables
 
